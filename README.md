@@ -34,7 +34,7 @@ When you purchase this app, you’ll receive:
 - **GetX (state management)**
 - **Google Mobile Ads SDK**
 - **Shared Preferences**
-- **OpenAI API (for caption generation)**
+- **OpenRouter API (for caption generation)**
 
 ---
 
@@ -55,9 +55,9 @@ Coming soon...
 
 ## 💵 Purchase the Code
 
-💻 [Buy the full source code on Ko-fi](https://ko-fi.com/your-link) *(One-time payment — Instant access)*
+💻 [Buy the full source code on Ko-fi](https://ko-fi.com/s/3812215ead) *(One-time payment — Instant access)*
 
-Have a question before buying? **DM me on Instagram @yourhandle or email me anytime!**
+Have a question before buying? **DM me on Instagram @CodeWithFlexZ or email me anytime!**
 
 ---
 
@@ -69,9 +69,9 @@ This code is for **personal or commercial use**. Redistribution or resale of the
 
 ## 📬 Contact
 
-- Instagram: [@yourhandle](https://instagram.com/yourhandle)
-- Email: your@email.com
-- Ko-fi: [https://ko-fi.com/your-link](https://ko-fi.com/your-link)
+- Instagram: [@yourhandle](https://instagram.com/CodeWithFlexZ)
+- Email: amirbayat.dev@gmail.com
+- Ko-fi: [https://ko-fi.com/flexz](https://ko-fi.com/flexz)
 
 ---
 
