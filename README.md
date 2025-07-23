@@ -38,9 +38,14 @@ When you purchase this app, you’ll receive:
 
 ---
 
-## 📸 Screenshots
 
-Coming soon...
+## 📸 App Preview
+
+🔎 Want to see the app in action?  
+Check out preview videos and stories on my Instagram:  
+👉 [instagram.com/CodeWithFlexz](https://instagram.com/codeWithFlexz)
+
+
 
 ---
 
@@ -65,6 +70,70 @@ Have a question before buying? **DM me on Instagram @CodeWithFlexZ or email me a
 If you want help customizing the app or adding new features, feel free to contact me. I offer freelance services for UI customization, API integrations, and advanced app development.
 
 --- 
+
+## ❓ Frequently Asked Questions (FAQs)
+
+**1. Is this app ready to publish on Google Play and App Store?**  
+Yes! The app is fully functional and can be published after replacing your AdMob IDs and API keys.
+
+**2. Do I need coding experience to use this app?**  
+No, the code is well-structured and documented, making it easy to customize even for beginners.
+
+**3. Can I modify the UI to match my brand?**  
+Absolutely! The UI is modular and easy to customize.
+
+**4. Is this app optimized for both Android and iOS?**  
+Yes, it’s a cross-platform Flutter app designed to work smoothly on both platforms.
+
+**5. Does the app include ads?**  
+Yes, Google Mobile Ads (AdMob) is integrated and ready to use.
+
+**6. Can I remove the ads if I want?**  
+Yes, you can remove or replace the ads by modifying the relevant code sections.
+
+**7. How does the AI caption generation work?**  
+It uses an AI API to generate captions based on user input and settings.
+
+**8. Do I need an OpenAI API key?**  
+If you want to use the AI caption generation feature with OpenAI, yes. Otherwise, you can modify or disable it.
+
+**9. Is the app’s data stored locally?**  
+Yes, caption history is saved locally using Hive, and user settings are saved via Shared Preferences.
+
+**10. Can I add new features to the app?**  
+Yes, the code is modular and well-documented to support easy expansion.
+
+**11. What Flutter version is required?**  
+The app is built for Flutter 3.x and Dart 3.x.
+
+**12. Can I get updates or support after purchase?**  
+Yes! You can contact me for support or customization services.
+
+**13. Is there a demo or preview of the app?**  
+Yes, check out preview videos on my Instagram linked in the README.
+
+**14. Can I resell this app after purchase?**  
+No, resale or redistribution of the source code is not allowed under the license.
+
+**15. Is this app GDPR compliant?**  
+The app stores data locally and does not share user data, but you may need to customize it further to comply with GDPR depending on your use case.
+
+**16. Does the app support dark mode?**  
+Yes, it includes dark mode support.
+
+**17. Can I integrate other AI services instead of OpenAI?**  
+Yes, the code is flexible enough to swap out the API service if needed.
+
+**18. What licenses are included?**  
+This project is licensed under the MIT License.
+
+**19. How do I replace the AdMob IDs?**  
+You just need to replace the AdMob app ID and ad unit IDs in the configuration files (AndroidManifest.xml and Info.plist).
+
+**20. Is the app responsive on different screen sizes?**  
+Yes, the app is designed to work well on most smartphones and tablets, but it is portrait mode only.
+
+---
 
 ## 🤝 Support & Licensing
 
