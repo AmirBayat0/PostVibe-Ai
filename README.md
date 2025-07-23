@@ -94,8 +94,8 @@ Yes, you can remove or replace the ads by modifying the relevant code sections.
 **7. How does the AI caption generation work?**  
 It uses an AI API to generate captions based on user input and settings.
 
-**8. Do I need an OpenAI API key?**  
-If you want to use the AI caption generation feature with OpenAI, yes. Otherwise, you can modify or disable it.
+**8. Do I need an OpenRouter API key?**  
+If you want to use the AI caption generation feature with OpenRouter, yes. Otherwise, you can modify or disable it.
 
 **9. Is the app’s data stored locally?**  
 Yes, caption history is saved locally using Hive, and user settings are saved via Shared Preferences.
@@ -103,34 +103,31 @@ Yes, caption history is saved locally using Hive, and user settings are saved vi
 **10. Can I add new features to the app?**  
 Yes, the code is modular and well-documented to support easy expansion.
 
-**11. What Flutter version is required?**  
-The app is built for Flutter 3.x and Dart 3.x.
-
-**12. Can I get updates or support after purchase?**  
+**11. Can I get updates or support after purchase?**  
 Yes! You can contact me for support or customization services.
 
-**13. Is there a demo or preview of the app?**  
+**12. Is there a demo or preview of the app?**  
 Yes, check out preview videos on my Instagram linked in the README.
 
-**14. Can I resell this app after purchase?**  
+**13. Can I resell this app after purchase?**  
 No, resale or redistribution of the source code is not allowed under the license.
 
-**15. Is this app GDPR compliant?**  
+**14. Is this app GDPR compliant?**  
 The app stores data locally and does not share user data, but you may need to customize it further to comply with GDPR depending on your use case.
 
-**16. Does the app support dark mode?**  
+**15. Does the app support dark mode?**  
 Yes, it includes dark mode support.
 
-**17. Can I integrate other AI services instead of OpenAI?**  
+**16. Can I integrate other AI services instead of OpenRouter?**  
 Yes, the code is flexible enough to swap out the API service if needed.
 
-**18. What licenses are included?**  
+**17. What licenses are included?**  
 This project is licensed under the MIT License.
 
-**19. How do I replace the AdMob IDs?**  
+**18. How do I replace the AdMob IDs?**  
 You just need to replace the AdMob app ID and ad unit IDs in the configuration files (AndroidManifest.xml and Info.plist).
 
-**20. Is the app responsive on different screen sizes?**  
+**29. Is the app responsive on different screen sizes?**  
 Yes, the app is designed to work well on most smartphones and tablets, but it is portrait mode only.
 
 ---
