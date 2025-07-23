@@ -61,9 +61,14 @@ Have a question before buying? **DM me on Instagram @CodeWithFlexZ or email me a
 
 ---
 
+## 🔧 Customization Support
+If you want help customizing the app or adding new features, feel free to contact me. I offer freelance services for UI customization, API integrations, and advanced app development.
+
+--- 
+
 ## 🤝 Support & Licensing
 
-This code is for **personal or commercial use**. Redistribution or resale of the source code is **not allowed** without written permission.
+This project is licensed under the MIT License — free for personal and commercial use. Attribution is appreciated but not required.
 
 ---
 
