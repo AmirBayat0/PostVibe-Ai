@@ -69,7 +69,7 @@ This code is for **personal or commercial use**. Redistribution or resale of the
 
 ## 📬 Contact
 
-- Instagram: [@yourhandle](https://instagram.com/CodeWithFlexZ)
+- Instagram: [@CodeWithFlexz](https://instagram.com/CodeWithFlexZ)
 - Email: amirbayat.dev@gmail.com
 - Ko-fi: [https://ko-fi.com/flexz](https://ko-fi.com/flexz)
 
